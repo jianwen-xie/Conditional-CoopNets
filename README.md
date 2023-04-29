@@ -1,7 +1,4 @@
 # Conditional CoopNets
-Conditional Cooperative Networks
-Start from the main_mnist.py
-
 
 This repository contains a TensorFlow implementation for TPAMI paper "[Cooperative Training of Fast Thinking Initializer and Slow Thinking Solver for
 Conditional Learning](http://www.stat.ucla.edu/~jxie/CCoopNets/CCoopNets_file/doc/CCoopNets.pdf)"
@@ -23,6 +20,8 @@ conda activate cCoopNets
     }
 
 ## Training
+
+### Conditional image generation on grayscale images
 
 (a) MNIST dataset
 
